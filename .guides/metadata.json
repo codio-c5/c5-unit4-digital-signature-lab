@@ -1,23 +1,67 @@
 {
  "sections": [
   {
-   "id": "7d0ec19b-b945-9493-6ec4-94dc81244296",
-   "title": "End of Unit Assessment Questions",
+   "id": "b2db0fa4-2fef-7e12-b6f4-fa429a0305ff",
+   "title": "Grading Rubric",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/End-of-Unit-Assessment-Questions-7d0e.md",
+   "content-file": ".guides/content/Grading-Rubric-b2db.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "1ccace13-3d52-a628-0542-49173c7ccae2",
-   "title": "Section 2",
+   "title": "Signature Creation and Verification",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Section-2-1cca.md",
+   "content-file": ".guides/content/Signature-Creation-and-Verification-1cca.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5be6e743-7ec5-78ea-02d4-52fa338c20e4",
+   "title": "Part 2: Signature Creation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Part-2--Signature-Creation-5be6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "01aa2bb3-3dcd-5a48-8544-92e9956c7efa",
+   "title": "Part 3. Signature Verification",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Part-3--Signature-Verification-01aa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "834456a1-491b-5c56-5c3e-3ee268fb300c",
+   "title": "What to Submit",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-to-Submit-8344.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7d0ec19b-b945-9493-6ec4-94dc81244296",
+   "title": "End of Unit Assessment Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/End-of-Unit-Assessment-Questions-7d0e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
